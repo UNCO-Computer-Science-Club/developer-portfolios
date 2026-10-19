@@ -1,6 +1,6 @@
 # UNCO Developer Portfolios
 
-A list of developer portfolios for your inspiration
+A list of UNCO developer portfolios for your inspiration. Inspired by and forked from [this repo](https://github.com/emmabostian/developer-portfolios).
 
 Have you built a portfolio? Are you proud of it?! Open a [Pr](./CONTRIBUTING.md) to this repo
 
@@ -11,7 +11,6 @@ This repo can serve as inspiration for your portfolio!
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
 | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z) |
-[Random Portfolio](https://unco-computer-science-club.github.io/developer-portfolios/random.html)
 
 ---
 
